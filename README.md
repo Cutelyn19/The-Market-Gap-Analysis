@@ -6,9 +6,9 @@ An analysis of 109,624 cleaned Open Food Facts products across five major snack 
 
 ## B. Project Links
 
-- **Notebook:** [insert your Colab share link here — confirm "Anyone with the link can view" is enabled]
+- **Notebook:** https://colab.research.google.com/drive/1uvoiWnd2vuMaUa40oXHaYoJclxwauX6m?usp=sharing
 - **Dashboard:** https://the-market-gap-analysis-d2rg3as7rkw5cwhsbidbdj.streamlit.app
-- **Presentation:** [insert your slide deck link here] (Optional video walkthrough: [insert YouTube link if applicable])
+- **Presentation:** https://docs.google.com/presentation/d/1eJxGRqd6bVfRlzM0h87LgZOnWfcdwNwr/edit?usp=sharing&ouid=114702118757669919978&rtpof=true&sd=true
 
 ## C. Technical Explanation
 
